@@ -1,7 +1,0 @@
-1. Navigated into my alx-intermediate-frontend repository.
-2. Created a new directory named 0x03-sass_scss.
-3. Moved into the directory.
-4. Installed Sass version 3.7.4 using npm with the command:
-   npm install sass -v 3.7.4
-5. Confirmed installation by checking node_modules and package.json.
-
